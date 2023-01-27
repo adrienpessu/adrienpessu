@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adrienpessu&label=Profile%20views&color=0e75b6&style=flat" alt="adrienpessu" /> </p>
 
-<p align="left"> <a href="https://twitter.com/adrienpessu" target="blank"><img src="https://img.shields.io/twitter/follow/adrienpessu?logo=twitter&style=for-the-badge" alt="adrienpessu" /></a> </p>
+<p align="center"> <img src="./images/NUX_Octodex.gif" with="50%" alt="NUXtocat" /> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
